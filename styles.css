@@ -6,6 +6,7 @@ header{
 	color:white;
 	justify-content:center;
 	align-items:center;
+	text-align:center;
 	font-size:30px;
 	
 }
@@ -16,20 +17,31 @@ body{
 	display:flex;
 	margin-left:20px;
 	margin-right:20px;
+	
 }
 
 .card-1{
 	height:200px;
 	width:200px;
 	background-color:white;
-}
+	margin:5px;
+	border-radius:10px;}
 .card-3{
 	height:500px;
 	width:200px;
 	background-color:white;
+	margin:5px;
+	margin-left:0px;
+	border-radius:10px;
 }
 .card-2{
 	height:300px;
 	width:400px;
 	background-color:white;
+	margin:5px;
+	margin-left:0px;
+	border-radius:10px;
+}
+.latest-news-section{
+	font-weight:bold;
 }
